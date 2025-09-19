@@ -1,0 +1,12 @@
+# .NET build artefacts
+bin/
+obj/
+
+# Python virtual environments (if any)
+.venv/
+.onnxtr/
+
+# VS/IDE files
+*.user
+*.suo
+.vs/
